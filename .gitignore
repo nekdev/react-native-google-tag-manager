@@ -1,5 +1,6 @@
 .idea
 .vscode
 .history
+.gradle
 
 node_modules
